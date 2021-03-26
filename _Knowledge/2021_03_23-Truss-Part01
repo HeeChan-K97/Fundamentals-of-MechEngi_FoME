@@ -24,6 +24,8 @@ I. Truss is a 2 force member. (no other force applied in the middle). They are l
    Two forces are EQUAL, OPPOSITE, and COLLINEAR
 II. Often compressive members are made thicker to prevent buckling.
 III. A simple truss is constructed by expanding the basic triangular truss. This increases stability and prevent buckling.
+IV. If it is possible to determine the reaction forces and the internal forces in the members of the truss by applying the equilibrium equations, the truss is said to be statically determinate.
+V. Real life structures contain more members of truss and may not possible to determind forces(internal, reactional) of the truss then this is said to be statically inderterminate and we need other methods such as force method or the displacement method to solve this problem. 
 
 # How to calculate turss?
 
@@ -33,3 +35,13 @@ a) Draw Free Body Diagram[FBD] apply rules of equilibrium equations.
 b) Draw FBD of JOINTS and work through them one by one. No resultant moment.
 Pretend that tension force is excerting on joints and draw the direction according to that.
 After a relevant calculation, the sign of the answer is negative the truss is actually experiencing compressive force but if the answer is positive the force acting on the joint is tension force.
+
+2. Method of section
+
+a) Draw FBD
+b) Use the equilibrium equations to solve the reaction forces
+c) Make an imaginary cut through the members of interest in our truss and draw the internal forces in the cut members
+
+# Zero force member
+To maintain its equilibrium condition force must be equal in vertical and horizontal direction. Hence, if there is only one component that in different direction(vertical or horizontal) that component is a "zero force member'
+
