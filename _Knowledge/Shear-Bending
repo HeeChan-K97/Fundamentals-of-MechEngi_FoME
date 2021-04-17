@@ -1,0 +1,10 @@
+Beam: Not a two force member, slender member(support loadings that are perpendicular to longitudinal axis)
+Shear: When the external loads tend to cause the two segments to slide over each other
+Tortional: Tend to twist one segment of the body with respect to the other
+
+In Shear force, if shear force cause an object to rotate in Clockwise(CW), it is considered to be in positive direction of the motion, and Counter-clockwise is negative direction
+
+Types of Beam
+1. Simply supported beam
+2. Cantilevered beam
+3. Overhanging beam
