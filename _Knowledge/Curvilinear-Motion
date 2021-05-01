@@ -1,0 +1,6 @@
+Describe the motion of a particle in terms of its x, y, z  or rectangular components, relative to a fixed frame of reference.
+The magnitudeof the position vector is:  r = (x2+ y2+ z2)0.5
+The directionof ris defined by the unit vector:  ur= (1/r)rposition vector:r= xi+ y j+ z k.
+The x, y, z-components may all be functions of time, i.e.,x = x(t), y = y(t), and z = z(t) .
+The magnitudeof the position vector is:  r = (x2+ y2+ z2)0.5
+The directionof ris defined by the unit vector:  ur= (1/r)r
